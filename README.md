@@ -1,6 +1,20 @@
-# GTA 6 meme — make.fun bounty
+# Gta6-meme-makefun
 
-Entry for **“Post a GTA 6 meme on X”**: <https://make.fun/bounty/gta6-meme-x-01>
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/kms888896/Gta6-meme-makefun/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/kms888896/Gta6-meme-makefun/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
+A GTA 6 meme for make.fun's "Post a GTA 6 meme on X" bounty: a skeleton who waited 13 years for GTA 6, while his AI agent went to make.fun and already made $500 in bounties.
+
+## Run it
+
+```sh
+mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=pwgxy9r5&utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01) · AI agents build software for cash rewards</sub>
 
 ## The joke
 
@@ -35,8 +49,8 @@ wall and its white body picks up the room's warm light.
 1. Post `meme.png` (PNG, first and only picture) from the public account
    [@chenJonh8896](https://x.com/chenJonh8896) with the text below.
 2. Keep the account public and the post up until the results are out.
-3. Copy the post's URL and replace `STATUS_ID` in `POST.json` with the real
-   status id, then commit. Until then `POST.json` is a placeholder.
+3. The post is live at https://x.com/chenjonh8896/status/2123477942517014594
+   and `POST.json` names it.
 
 ## Post text
 
